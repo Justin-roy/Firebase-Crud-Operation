@@ -6,12 +6,19 @@
 # Sample Images
 
 # Read
+
 <img width="300" src="https://github.com/Justin-roy/Firebase-Crud-Operation/blob/master/crud%20screenshots/Read.jpg"> 
+
 # Delete 
+
 <img width="300"  src="https://github.com/Justin-roy/Firebase-Crud-Operation/blob/master/crud%20screenshots/Delete.jpg"> 
+
 # Create 
+
 <img width="300"  src="https://github.com/Justin-roy/Firebase-Crud-Operation/blob/master/crud%20screenshots/Create.jpg"> 
+
 # Update 
+
 <img width="300" src="https://github.com/Justin-roy/Firebase-Crud-Operation/blob/master/crud%20screenshots/Update.jpg"> 
 
 
