@@ -1,4 +1,33 @@
-# crud_operation
+# Firebase-Crud-Operation
+
+
+# In This Flutter I Will Firebase Crud Operation like you can create delete update read real time data.
+
+# Sample Images
+
+# Read
+<img width="300" src="https://github.com/Justin-roy/Firebase-Crud-Operation/blob/master/crud%20screenshots/Read.jpg"> 
+# Delete 
+<img width="300"  src="https://github.com/Justin-roy/Firebase-Crud-Operation/blob/master/crud%20screenshots/Delete.jpg"> 
+# Create 
+<img width="300"  src="https://github.com/Justin-roy/Firebase-Crud-Operation/blob/master/crud%20screenshots/Create.jpg"> 
+# Update 
+<img width="300" src="https://github.com/Justin-roy/Firebase-Crud-Operation/blob/master/crud%20screenshots/Update.jpg"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 A new Flutter project.
 
