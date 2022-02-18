@@ -1,7 +1,7 @@
 # Firebase-Crud-Operation
 
 
-In This Flutter App I Add Will Firebase Crud Operation like you can Create Delete Update Read real time data.
+In This Flutter App I Will Add Firebase Crud Operation like you can Create Delete Update Read real time data.
 
 # Sample Images
 
